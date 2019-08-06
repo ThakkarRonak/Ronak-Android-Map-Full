@@ -143,7 +143,7 @@
 * Keep Learning and Improving
 
 
-## [MindOrks](https://mindorks.com)
+## [RonakEnterprise](http://ronakandroid.github.io/)
 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
