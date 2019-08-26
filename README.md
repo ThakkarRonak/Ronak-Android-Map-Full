@@ -3,7 +3,7 @@
 > A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
 
 <p align="center">
-<img alt="Android Developer Roadmap" src="https://raw.githubusercontent.com/MindorksOpenSource/android-developer-roadmap/master/images/android_developer_roadmap.png">
+<img alt="Android Developer Roadmap" src="https://github.com/ThakkarRonak/Ronak-Android-Map-Full/blob/master/android_developer_roadmap_Ronak.png">
 </p>
 
 ### Note: All the resources to learn all of the above in the roadmap will be provided on [Ronak Enterprise Website](http://ronakandroid.github.io/)
