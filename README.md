@@ -6,7 +6,7 @@
 <img alt="Android Developer Roadmap" src="https://raw.githubusercontent.com/MindorksOpenSource/android-developer-roadmap/master/images/android_developer_roadmap.png">
 </p>
 
-### Note: All the resources to learn all of the above in the roadmap will be provided on [MindOrks Website](http://ronakandroid.github.io/)
+### Note: All the resources to learn all of the above in the roadmap will be provided on [Ronak Enterprise Website](http://ronakandroid.github.io/)
 
 ## Roadmap to learn Android App Development
 * Programming
