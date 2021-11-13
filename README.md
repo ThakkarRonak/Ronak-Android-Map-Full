@@ -1,4 +1,4 @@
-# Android Developer Roadmap - [Ronak Enterprise](http://ronakandroid.github.io/)
+# Android Developer Roadmap - [Ronak Enterprise](https://ronakenterprise0.wixsite.com/ronakinfo)
 
 > A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
 
@@ -6,7 +6,7 @@
 <img alt="Android Developer Roadmap" src="https://github.com/ThakkarRonak/Ronak-Android-Map-Full/blob/master/android_developer_roadmap_Ronak.png">
 </p>
 
-### Note: All the resources to learn all of the above in the roadmap will be provided on [Ronak Enterprise Website](http://ronakandroid.github.io/)
+### Note: All the resources to learn all of the above in the roadmap will be provided on [Ronak Enterprise Website](https://ronakenterprise0.wixsite.com/ronakinfo)
 
 ## Roadmap to learn Android App Development
 * Programming
@@ -143,7 +143,7 @@
 * Keep Learning and Improving
 
 
-## [RonakEnterprise](http://ronakandroid.github.io/)
+## [RonakEnterprise](https://thakkaronak.github.io/ThakkarRonak/)
 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
